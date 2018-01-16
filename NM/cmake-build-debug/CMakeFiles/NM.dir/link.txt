@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/NM.dir/main.cpp.o  -o NM 
